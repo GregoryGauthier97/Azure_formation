@@ -1,5 +1,5 @@
 {
-	"name": "pipeline covid gen",
+	"name": "pipeline covid master",
 	"properties": {
 		"activities": [
 			{
