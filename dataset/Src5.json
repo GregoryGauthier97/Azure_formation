@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText5",
+	"name": "Src5",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "FileServer1",
