@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\ggauthier\\Desktop\\Ecole_de_la_Data\\Architecture Azure\\Data_covid",
+			"userId": "BETD\\ggauthier",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjYjkyZjRjNy0wZDIwLTQ1NTgtYjBmNS04NzhlMzdjNmY1NGIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
