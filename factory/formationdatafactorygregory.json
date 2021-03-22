@@ -1,0 +1,12 @@
+{
+	"name": "formationdatafactorygregory",
+	"properties": {
+		"globalParameters": {
+			"Directory": {
+				"type": "string",
+				"value": "C:\\Users\\ggauthier\\Desktop\\Ecole_de_la_Data\\Architecture Azure\\Data_covid"
+			}
+		}
+	},
+	"location": "westeurope"
+}
